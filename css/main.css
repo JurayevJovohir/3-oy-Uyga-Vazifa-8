@@ -1,0 +1,47 @@
+.container{
+    width: 1440px !important;
+}
+
+.tittle-div{
+    margin: 15px 0px 0px 0px;
+    padding: 20px 0;
+    background:#3C4248;
+}
+
+.tittle{
+    margin: 0;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.contact-box{
+    margin: 50px 0 0 0 !important;
+}
+
+.form-div{
+    margin: 0 25px 0 0;
+}
+
+.form-title{
+    margin: 0 0 20px 0;
+}
+
+.js-input{
+    margin: 0 0 16px 0;
+}
+
+.js-input-two{
+    margin: 0 0 16px 0;
+}
+
+.js-input-contact{
+    margin: 0 0 16px 0;
+}
+
+.card-text{
+    margin: 0;
+}
+
+.card-tel{
+    text-decoration: none;
+}
